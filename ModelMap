@@ -1,0 +1,7928 @@
+{
+  "MA501": {
+    "color": "Black",
+    "storage": "4 GB",
+    "identifier": "iPhone1,1",
+    "generation": "iPhone"
+  },
+  "MA712": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,1",
+    "generation": "iPhone"
+  },
+  "MB384": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,1",
+    "generation": "iPhone"
+  },
+  "MB046": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB489": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB639": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB702": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MC176": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB490": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB757": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB048": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB496": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB497": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB704": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB631": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB499": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB500": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB501": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB632": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MB705": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone1,2",
+    "generation": "iPhone 3G"
+  },
+  "MC555": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC640": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC637": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB715": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB719": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB735": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC131": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC135": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC139": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC143": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB717": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB737": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC133": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC137": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC141": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC158": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB716": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB736": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC132": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC136": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC140": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC144": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB718": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MB738": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC134": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC138": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MC160": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone2,1",
+    "generation": "iPhone 3GS"
+  },
+  "MD126": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MD127": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MD128": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,2",
+    "generation": "iPhone 4"
+  },
+  "MC318": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC603": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC608": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC319": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC605": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC610": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MD196": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MD197": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MD198": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC604": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC536": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC607": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC609": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC606": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC537": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "MC611": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone3,1",
+    "generation": "iPhone 4"
+  },
+  "ME798": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,2",
+    "generation": "iPhone 4"
+  },
+  "ME799": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,2",
+    "generation": "iPhone 4"
+  },
+  "MD146": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MD439": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MD873": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "ME639": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MC676": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MC678": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MD200": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MD440": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MD874": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MC677": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "MC679": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone3,3",
+    "generation": "iPhone 4"
+  },
+  "ME259": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF257": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF261": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF263": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF265": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF269": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF259": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF267": {
+    "color": "Black",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC918": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC922": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD234": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD235": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD276": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD377": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD865": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "ME804": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD236": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD251": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD254": {
+    "color": "Black",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC919": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC923": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD241": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD242": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD278": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD379": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD261": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD243": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD257": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD258": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD269": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD280": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD381": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD259": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD270": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF258": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF260": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF262": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF264": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF266": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF270": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MF268": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC920": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC924": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD237": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD239": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD277": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD378": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD866": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "ME805": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD240": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD920": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC921": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD244": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD279": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD380": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD246": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD245": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MC925": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD260": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD271": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD272": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD281": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD382": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD262": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone4,1",
+    "generation": "iPhone 4S"
+  },
+  "MD293": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD634": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD638": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME486": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD295": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD636": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME488": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD640": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD642": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD644": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME490": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD646": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD294": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD635": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME487": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD639": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD296": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD637": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME489": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD641": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD643": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD645": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "ME491": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD647": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,1",
+    "generation": "iPhone 5"
+  },
+  "MD297": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD654": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD656": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME039": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD097": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD669": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD671": {
+    "color": "Black & Slate",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD299": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD658": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD660": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME041": {
+    "color": "Black & Slate",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD662": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD664": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD667": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME043": {
+    "color": "Black & Slate",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD298": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD655": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD657": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME040": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD105": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD672": {
+    "color": "White & Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD300": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD659": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD661": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME042": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD144": {
+    "color": "White & Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD663": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD665": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "MD668": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME044": {
+    "color": "White & Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone5,2",
+    "generation": "iPhone 5"
+  },
+  "ME507": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME531": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME543": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF136": {
+    "color": "Blue",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF151": {
+    "color": "Blue",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME508": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME496": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME544": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME568": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF137": {
+    "color": "Green",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF152": {
+    "color": "Green",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME509": {
+    "color": "Pink",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME533": {
+    "color": "Pink",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME545": {
+    "color": "Pink",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF138": {
+    "color": "Pink",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF133": {
+    "color": "Pink",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF153": {
+    "color": "Pink",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME505": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME493": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME541": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME565": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF134": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF149": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MGF12": {
+    "color": "Yellow",
+    "storage": "8 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "ME506": {
+    "color": "Yellow",
+    "storage": "16 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MF135": {
+    "color": "Yellow",
+    "storage": "32 GB",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c"
+  },
+  "MG0T2": {
+    "color": "Blue",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG1U2": {
+    "color": "Blue",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG902": {
+    "color": "Blue",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME555": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME501": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME561": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF323": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF333": {
+    "color": "Blue",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF156": {
+    "color": "Blue",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG0V2(?)": {
+    "color": "Pink",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG1W2(?)": {
+    "color": "Pink",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG912": {
+    "color": "Green",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME556": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME502": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF324": {
+    "color": "Green",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF157": {
+    "color": "Green",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF095": {
+    "color": "Green",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF329": {
+    "color": "Green",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG922": {
+    "color": "Pink",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME557": {
+    "color": "Pink",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME503": {
+    "color": "Pink",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF158": {
+    "color": "Pink",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF330": {
+    "color": "Pink",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG0Q2": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG1Q2": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG8X2": {
+    "color": "White",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME553": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME499": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF321": {
+    "color": "White",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF154": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF326": {
+    "color": "White",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG0R2": {
+    "color": "Yellow",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG1R2": {
+    "color": "Yellow",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MG8Y2": {
+    "color": "Yellow",
+    "storage": "8 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME554": {
+    "color": "Yellow",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF322": {
+    "color": "Yellow",
+    "storage": "16 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF155": {
+    "color": "Yellow",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "MF327": {
+    "color": "Yellow",
+    "storage": "32 GB",
+    "identifier": "iPhone5,4",
+    "generation": "iPhone 5c"
+  },
+  "ME298": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME307": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME325": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME343": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME334": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME301": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME310": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME328": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME346": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME337": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME304": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME313": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME331": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME349": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME340": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME297": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME306": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME324": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME333": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME342": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME300": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME309": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME327": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME345": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME336": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME303": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME312": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME348": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME339": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME330": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "MF359": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME296": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME305": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME323": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME341": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME332": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "MF797": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME299": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME308": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME326": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME344": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME335": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "MF384": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME302": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME311": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME329": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME347": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME338": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,1",
+    "generation": "iPhone 5s"
+  },
+  "ME434": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF354": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF398": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF363": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME437": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF357": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME440": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF360": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME433": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF353": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF362": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME436": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF356": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME439": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME432": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF352": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME435": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF355": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "ME438": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MF358": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone6,2",
+    "generation": "iPhone 5s"
+  },
+  "MG3D2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG492": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4Q2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG562": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG5Y2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG6C2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MQ3E2": {
+    "color": "Gold",
+    "storage": "32 GB[2]",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3L2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4J2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG502": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG652": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG6J2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG842": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3G2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4E2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4V2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG622": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3C2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4P2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG482": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG5X2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG552": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG6A2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG7W2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3K2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4H2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4X2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG5C2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG6H2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG642": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG822": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3F2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4C2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3A2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4N2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG472": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG5W2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG542": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG692": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MQ3D2MQ462": {
+    "color": "Space Gray",
+    "storage": "32 GB[2]",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3H2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4F2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4W2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG5A2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG6G2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG632": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG3E2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4A2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG4R2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MG602": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6"
+  },
+  "MGAA2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAN2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC12": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCM2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCX2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAK2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAW2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC72": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAF2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAR2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC42": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCQ2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGA92": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC92": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAM2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC02": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCL2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAJ2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAV2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC62": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAE2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAQ2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC32": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGA82": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAL2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAX2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCK2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAH2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAU2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC52": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCR2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAC2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGAP2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGC22": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MGCN2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone7,1",
+    "generation": "iPhone 6 Plus"
+  },
+  "MKQL2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQ72": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR12": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRE2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRW2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT92": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7E2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN0P2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN172": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1K2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1U2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1Y2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQC2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQQ2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR52": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRJ2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT12": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTE2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7J2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQG2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQV2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR92": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRP2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT52": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTJ2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7N2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQM2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQ82": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRF2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRX2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR22": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTA2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7F2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN0V2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN192": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1L2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1V2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN202": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQD2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQR2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR62": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRK2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT22": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTF2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7K2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQH2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQW2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRA2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRQ2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT62": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTK2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7P2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQ62": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQK2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQY2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRD2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRT2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT82": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7D2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "NKQJ2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN0N2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN162": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1G2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1Q2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1X2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQA2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQP2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR42": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRH2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT02": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTD2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7H2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQF2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQU2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR82": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRM2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT42": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTH2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7M2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQ52": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQJ2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQX2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRC2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRR2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT72": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7C2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN0M2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN132": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1E2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1M2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MN1W2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQN2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQ92": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR32": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRG2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRY2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTC2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7G2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQE2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKQT2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKR72": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKRL2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKT32": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTG2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "ML7L2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,1",
+    "generation": "iPhone 6s"
+  },
+  "MKTN2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU32": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUN2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV62": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVQ2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW72": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6D2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTT2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU82": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUV2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVD2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVX2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWD2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6H2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTX2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUF2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV12": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVH2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW22": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWH2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6M2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU52": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6E2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTP2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUP2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV72": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVU2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW82": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU92": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6J2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTU2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUW2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVE2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVY2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWE2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUG2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV22": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6N2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVJ2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTY2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTM2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU22": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUJ2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV52": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVP2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW62": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6C2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTR2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU72": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUU2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV92": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVW2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWC2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6G2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTW2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUE2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUY2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVG2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW12": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWG2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6L2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU12": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6A2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV32": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTL2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUH2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVN2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW52": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKU62": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6F2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTQ2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUQ2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKV82": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVV2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW92": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML642": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUD2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "ML6K2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKTV2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKUX2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKVF2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKW02": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MKWF2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus"
+  },
+  "MLXH2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXW2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY12": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY52": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY92": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXM2": {
+    "color": "Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8D2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8R2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8H2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8M2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7V2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP842": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXK2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXY2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY32": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY72": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLYC2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXP2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP952": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9J2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP992": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9E2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP802": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP882": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXJ2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXX2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY22": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY62": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLYA2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXN2": {
+    "color": "Rose Gold",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8E2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8T2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8J2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8N2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7W2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP852": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXL2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY02": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY42": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLY82": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLYD2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLXQ2": {
+    "color": "Rose Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP962": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9K2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9A2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9F2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP812": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP892": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLM2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLV2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLX2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM02": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM32": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLP2": {
+    "color": "Silver",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8C2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8Q2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8G2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8L2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7U2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP832": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM52": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMC2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLME2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMG2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMJ2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM72": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP942": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9H2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP982": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9D2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7Y2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP872": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLL2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLU2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLW2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLY2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM22": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLLN2": {
+    "color": "Space Gray",
+    "storage": "16 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8A2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8P2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8F2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP8K2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7T2": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP822": {
+    "color": "Space Gray",
+    "storage": "32 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM42": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLM62": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMA2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMD2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMF2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MLMH2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP932": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9G2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP972": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP9C2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP7X2": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MP862": {
+    "color": "Space Gray",
+    "storage": "128 GB",
+    "identifier": "iPhone8,4",
+    "generation": "iPhone SE"
+  },
+  "MN8G2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAC2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAY2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCE2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNGQ2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8L2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAJ2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC32": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCK2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNGX2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8R2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAQ2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC82": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCQ2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8J2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAE2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC12": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCG2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8N2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAL2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC52": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCM2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNH02": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8U2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAV2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCA2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCT2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8Q2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAP2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC72": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCP2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8W2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAX2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCD2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCV2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRV2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRT2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRH2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRL2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRW2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRU2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRJ2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MPRM2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8K2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAF2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC22": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCJ2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8P2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAM2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC62": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNH12": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCN2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8V2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAW2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCC2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCU2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8H2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAD2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC02": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCF2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8M2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAK2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC42": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCL2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN8T2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNAU2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNC92": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MNCR2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,1",
+    "generation": "iPhone 7"
+  },
+  "MN9D2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9U2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN8X2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9H2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9Y2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN922": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9N2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA62": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN972": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9F2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9W2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN902": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9K2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA32": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN942": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9Q2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA82": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9M2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA52": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN962": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9T2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNAA2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9C2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MPRN2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MPRQ2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MPRP2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MPRR2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9G2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9X2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN912": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9L2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA42": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN952": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9R2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA92": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9E2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9V2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9J2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA02": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MN9P2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNA72": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,3",
+    "generation": "iPhone 7"
+  },
+  "MNQH2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR12": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR52": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR92": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRJ2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN482": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5T2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN642": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6F2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFP2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4E2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5Y2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN692": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6L2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFV2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQK2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR32": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR72": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRC2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRL2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4A2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5V2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN662": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6H2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFR2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4J2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN612": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6C2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6N2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4D2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5X2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN682": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6K2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4L2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN632": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6E2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6Q2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR12": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR02": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPQV2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPQW2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPRA2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR92": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR52": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR62": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQL2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR42": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR82": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRD2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRM2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4C2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5W2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN672": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6J2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFT2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4K2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN622": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6D2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6P2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFY2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQJ2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR22": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR62": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRA2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNRK2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN492": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5U2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN652": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6G2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNFQ2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4F2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN602": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6A2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN6M2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,2",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQR2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQW2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQM2": {
+    "color": "Black",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN522": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5G2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4M2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN592": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5M2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4W2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQU2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQY2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQP2": {
+    "color": "Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN552": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5J2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4Q2": {
+    "color": "Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5D2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5P2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4Y2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN572": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5L2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4V2": {
+    "color": "Jet Black",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5F2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5R2": {
+    "color": "Jet Black",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPQY2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR72": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MPR82": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQV2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNR02": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQQ2": {
+    "color": "Rose Gold",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN562": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5K2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4U2": {
+    "color": "Rose Gold",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5E2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5Q2": {
+    "color": "Rose Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQT2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQX2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MNQN2": {
+    "color": "Silver",
+    "storage": "32 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN532": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5H2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4P2": {
+    "color": "Silver",
+    "storage": "128 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5C2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN5N2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN4X2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MN502": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone9,4",
+    "generation": "iPhone 7 Plus"
+  },
+  "MQ6M2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ742": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ772": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ7H2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ802": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ832": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ6L2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ732": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ762": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ7G2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ7Y2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ822": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ6K2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ722": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ752": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ7F2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ7X2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ812": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRK2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRR2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRT2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRL2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRW2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MRRX2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,1",
+    "generation": "iPhone 8"
+  },
+  "MQ6J2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6X2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ712": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7E2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7T2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7W2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6H2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6W2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ702": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7D2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7R2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7V2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6G2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6V2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ6Y2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7C2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7Q2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ7U2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRM2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRP2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRQ2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRN2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRU2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MRRV2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,4",
+    "generation": "iPhone 8"
+  },
+  "MQ8F2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9F2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ982": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8J2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9C2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9J2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8E2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9E2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ972": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8H2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9A2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9H2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8D2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9D2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ962": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8G2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ9G2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ992": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTG2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTJ2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRT72": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTH2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTK2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRT82": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,2",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8N2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8V2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ922": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8R2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8Y2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ952": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8M2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8U2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ912": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8Q2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8X2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ942": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8L2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8T2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ902": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8P2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ8W2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQ932": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTC2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTE2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRT92": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTA2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTD2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MRTF2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone10,5",
+    "generation": "iPhone 8 Plus"
+  },
+  "MQCT2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCL2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQAY2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQA62": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCW2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCP2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQC22": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQA92": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCR2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCK2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQAX2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQA52": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCV2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQCN2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQC12": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQA82": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,3",
+    "generation": "iPhone X"
+  },
+  "MQAK2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAR2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAD2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAN2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAV2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAG2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAJ2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAQ2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAC2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAM2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAU2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MQAF2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone10,6",
+    "generation": "iPhone X"
+  },
+  "MT3K2": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2E2": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT302": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT472": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3T2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2L2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT362": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4G2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT402": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2T2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3D2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4R2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3R2": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2K2": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT352": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4F2": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3Y2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2R2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3C2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4Q2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT462": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2Y2": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3J2": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4Y2": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3Q2": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2J2": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT342": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4D2": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3X2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2Q2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3A2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4N2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT452": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2X2": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3H2": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4X2": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3M2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2G2": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT322": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT492": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3V2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2N2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT382": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4J2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT422": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2V2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3F2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4V2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3L2": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2F2": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT312": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT482": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3U2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2M2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT372": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4H2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT412": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2U2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3E2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4U2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3N2": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2H2": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT332": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4A2": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3W2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2P2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT392": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4L2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT442": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT2W2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT3G2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT4W2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY42": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY92": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYJ2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYA2": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYH2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYQ2": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY82": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYG2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYP2": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY62": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYE2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYM2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY52": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYD2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYL2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRY72": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYF2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MRYN2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT002": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0G2": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0V2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0E2": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0U2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT112": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0A2": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0T2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT102": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT062": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0N2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0X2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT032": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0J2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0W2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT082": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0Q2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT0Y2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT122": {
+    "color": "Black",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT192": {
+    "color": "Black",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1H2": {
+    "color": "Black",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT182": {
+    "color": "Blue",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1G2": {
+    "color": "Blue",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1Q2": {
+    "color": "Blue",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT172": {
+    "color": "Coral",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1F2": {
+    "color": "Coral",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1P2": {
+    "color": "Coral",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT142": {
+    "color": "PRODUCT(RED)",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1D2": {
+    "color": "PRODUCT(RED)",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1L2": {
+    "color": "PRODUCT(RED)",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT132": {
+    "color": "White",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1A2": {
+    "color": "White",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1J2": {
+    "color": "White",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT162": {
+    "color": "Yellow",
+    "storage": "64 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1E2": {
+    "color": "Yellow",
+    "storage": "128 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT1M2": {
+    "color": "Yellow",
+    "storage": "256 GB",
+    "identifier": "iPhone11,8",
+    "generation": "iPhone XR"
+  },
+  "MT8W2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA22": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8L2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAJ2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT962": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT902": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA92": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8P2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAQ2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT992": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT932": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAF2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8T2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAV2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9D2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8V2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA12": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8K2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAH2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT952": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8Y2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA82": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8N2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAN2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT982": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT922": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAD2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8R2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAU2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9C2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8U2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA02": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8J2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAG2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT942": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8X2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTA72": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8M2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAL2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT972": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT912": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAA2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT8Q2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAR2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9A2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9G2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9K2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9N2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9F2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9J2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9M2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9E2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9H2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9L2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAY2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE22": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE52": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAX2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE12": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE42": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTAW2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE02": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MTE32": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9R2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9V2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9Y2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9Q2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9U2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9X2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9P2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9T2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT9W2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,2",
+    "generation": "iPhone XS"
+  },
+  "MT5X2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT672": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5M2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6H2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5C2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "3D897": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT612": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6A2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5Q2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6L2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5F2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT642": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6E2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5U2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6P2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5J2": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5W2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT662": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5L2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6G2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5A2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT602": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT692": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5P2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6K2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5E2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT632": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6D2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5T2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6N2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5H2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5V2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT652": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5K2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6F2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT592": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5Y2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT682": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5N2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6J2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5D2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT622": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6C2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5R2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6M2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT5G2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT522": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "3D879": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT552": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT582": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT512": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT542": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT572": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT502": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT532": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT562": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6T2": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6W2": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT702": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6R2": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6V2": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6Y2": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6Q2": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6U2": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT6X2": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT732": {
+    "color": "Gold",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT762": {
+    "color": "Gold",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT792": {
+    "color": "Gold",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT722": {
+    "color": "Silver",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT752": {
+    "color": "Silver",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT782": {
+    "color": "Silver",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT712": {
+    "color": "Space Gray",
+    "storage": "64 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT742": {
+    "color": "Space Gray",
+    "storage": "256 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  },
+  "MT772": {
+    "color": "Space Gray",
+    "storage": "512 GB",
+    "identifier": "iPhone11,6",
+    "generation": "iPhone XS Max"
+  }
+}
