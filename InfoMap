@@ -1,0 +1,151 @@
+{
+  "iPhone 4": {
+    "resolution": {
+      "width": "640",
+      "height": "960"
+    },
+    "size": "4.5"
+  },
+  "iPhone 5": {
+    "resolution": {
+      "width": "640",
+      "height": "1136"
+    },
+    "size": "4.87",
+    "ram": "1 GB"
+  },
+  "iPhone 5c": {
+    "resolution": {
+      "width": "640",
+      "height": "1136"
+    },
+    "size": "4.90",
+    "ram": "1 GB"
+  },
+  "iPhone 5s": {
+    "resolution": {
+      "width": "640",
+      "height": "1136"
+    },
+    "size": "4.87",
+    "ram": "1 GB"
+  },
+  "iPhone 6s": {
+    "resolution": {
+      "width": "750",
+      "height": "1334"
+    },
+    "size": "5.44",
+    "ram": "2 GB"
+  },
+  "iPhone 6s Plus": {
+    "resolution": {
+      "width": "1080",
+      "height": "1920"
+    },
+    "size": "6.23",
+    "ram": "2 GB"
+  },
+  "iPhone SE": {
+    "resolution": {
+      "width": "640",
+      "height": "1136"
+    },
+    "size": "4.87",
+    "ram": "2 GB"
+  },
+  "iPhone 7": {
+    "resolution": {
+      "width": "750",
+      "height": "1334"
+    },
+    "size": "5.44",
+    "ram": "2 GB"
+  },
+  "iPhone 7 Plus": {
+    "resolution": {
+      "width": "1080",
+      "height": "1920"
+    },
+    "size": "6.23",
+    "ram": "3 GB"
+  },
+  "iPhone 8": {
+    "resolution": {
+      "width": "750",
+      "height": "1334"
+    },
+    "size": "5.45",
+    "ram": "2 GB"
+  },
+  "iPhone 8 Plus": {
+    "resolution": {
+      "width": "1080",
+      "height": "1920"
+    },
+    "size": "6.24",
+    "ram": "3 GB"
+  },
+  "iPhone X": {
+    "resolution": {
+      "width": "1125",
+      "height": "2436"
+    },
+    "size": "5.65",
+    "ram": "3 GB"
+  },
+  "iPhone XS Max": {
+    "resolution": {
+      "width": "1242",
+      "height": "2688"
+    },
+    "size": "6.20",
+    "ram": "4 GB"
+  },
+  "iPhone 3G": {
+    "size": "4.5"
+  },
+  "iPhone 3GS": {
+    "size": "4.5"
+  },
+  "iPhone 4S": {
+    "resolution": {
+      "width": "640",
+      "height": "960"
+    },
+    "size": "4.5",
+    "ram": "512 MB"
+  },
+  "iPhone 6": {
+    "resolution": {
+      "width": "750",
+      "height": "1334"
+    },
+    "size": "5.44",
+    "ram": "1 GB"
+  },
+  "iPhone 6 Plus": {
+    "resolution": {
+      "width": "1080",
+      "height": "1920"
+    },
+    "size": "6.22",
+    "ram": "1 GB"
+  },
+  "iPhone XR": {
+    "resolution": {
+      "width": "828",
+      "height": "1792"
+    },
+    "size": "5.94",
+    "ram": "3 GB"
+  },
+  "iPhone XS": {
+    "resolution": {
+      "width": "1125",
+      "height": "2436"
+    },
+    "size": "5.65",
+    "ram": "4 GB"
+  }
+}
