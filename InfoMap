@@ -1,151 +1,313 @@
 {
+  "iPhone": {
+    "batteryCapacity": "1400 mA",
+    "batteryVoltage": "3.7 V",
+    "cpuHardware": "ARM1176 x 1",
+    "cpuVersion": "S5L8900",
+    "cpuFrequency": "400 MHz"
+  },
+  "iPhone 3G": {
+    "batteryCapacity": "1150 mA",
+    "batteryVoltage": "3.7 V",
+    "cpuHardware": "ARM1176 x 1",
+    "cpuVersion": "S5L8900",
+    "cpuFrequency": "412 MHz",
+    "size": "5.10"
+  },
+  "iPhone 3GS": {
+    "batteryCapacity": "1219 mA",
+    "batteryVoltage": "3.7 V",
+    "cpuHardware": "ARM Cortex-A8 x 1",
+    "cpuVersion": "S5L8920",
+    "cpuFrequency": "620 MHz",
+    "size": "5.10"
+  },
   "iPhone 4": {
+    "batteryCapacity": "1419 mA",
+    "batteryVoltage": "3.7 V",
+    "cpuHardware": "ARM Cortex-A8 x 1",
+    "cpuVersion": "S5L8930 \"A4\"",
+    "cpuFrequency": "800 MHz",
+    "ram": "512 MB",
     "resolution": {
       "width": "640",
       "height": "960"
     },
-    "size": "4.5"
+    "density": "326",
+    "size": "5.06",
+    "xdpi": "277.06",
+    "ydpi": "213.33"
+  },
+  "iPhone 4S": {
+    "batteryCapacity": "1432 mA",
+    "batteryVoltage": "3.7 V",
+    "cpuHardware": "ARM Cortex-A9 x 2",
+    "cpuVersion": "S5L8940 \"A5\"",
+    "cpuFrequency": "800 MHz",
+    "resolution": {
+      "width": "640",
+      "height": "960"
+    },
+    "density": "326",
+    "size": "5.06",
+    "xdpi": "277.06",
+    "ydpi": "213.33",
+    "ram": "512 MB"
   },
   "iPhone 5": {
+    "batteryCapacity": "1434 mA",
+    "batteryVoltage": "3.8 V",
+    "cpuHardware": "Swift x 2",
+    "cpuVersion": "S5L8950 \"A6\"",
+    "cpuFrequency": "1.2 GHz",
     "resolution": {
       "width": "640",
       "height": "1136"
     },
-    "size": "4.87",
+    "density": "326",
+    "size": "5.39",
+    "xdpi": "277.06",
+    "ydpi": "233.26",
     "ram": "1 GB"
   },
   "iPhone 5c": {
+    "batteryCapacity": "1508 mA",
+    "batteryVoltage": "3.8 V",
+    "cpuHardware": "Swift x 2",
+    "cpuVersion": "S5L8950 \"A6\"",
+    "cpuFrequency": "1.2 GHz",
     "resolution": {
       "width": "640",
       "height": "1136"
     },
-    "size": "4.90",
+    "density": "326",
+    "size": "5.43",
+    "xdpi": "274.68",
+    "ydpi": "231.84",
     "ram": "1 GB"
   },
   "iPhone 5s": {
+    "batteryCapacity": "1508 mA",
+    "batteryVoltage": "3.8 V",
+    "cpuHardware": "Apple Cyclone x 2",
+    "cpuVersion": "S5L8960 \"A7\"",
+    "cpuFrequency": "1.3 GHz",
     "resolution": {
       "width": "640",
       "height": "1136"
     },
-    "size": "4.87",
+    "density": "326",
+    "size": "5.39",
+    "xdpi": "277.06",
+    "ydpi": "233.26",
+    "ram": "1 GB"
+  },
+  "iPhone 6": {
+    "batteryCapacity": "1809 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Typhoon x 2",
+    "cpuVersion": "T7000 \"A8”",
+    "cpuFrequency": "1.38 GHz",
+    "resolution": {
+      "width": "750",
+      "height": "1334"
+    },
+    "density": "326",
+    "size": "6.05",
+    "xdpi": "284.09",
+    "ydpi": "245.22",
+    "ram": "1 GB"
+  },
+  "iPhone 6 Plus": {
+    "batteryCapacity": "2906 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Typhoon x 2",
+    "cpuVersion": "T7000 \"A8\"",
+    "cpuFrequency": "1.38 GHz",
+    "resolution": {
+      "width": "1080",
+      "height": "1920"
+    },
+    "density": "401",
+    "size": "6.93",
+    "xdpi": "352.94",
+    "ydpi": "308.68",
     "ram": "1 GB"
   },
   "iPhone 6s": {
+    "batteryCapacity": "1715 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Twister x 2",
+    "cpuVersion": "S8000 and S8003 \"A9\"",
+    "cpuFrequency": "1.85 GHz",
     "resolution": {
       "width": "750",
       "height": "1334"
     },
-    "size": "5.44",
+    "density": "326",
+    "size": "6.05",
+    "xdpi": "284.09",
+    "ydpi": "245.22",
     "ram": "2 GB"
   },
   "iPhone 6s Plus": {
+    "batteryCapacity": "2750 mA",
+    "batteryVoltage": "3.8 V",
+    "cpuHardware": "Apple Twister x2",
+    "cpuVersion": "S8000 and S8003 \"A9\"",
+    "cpuFrequency": "1.85 GHz",
     "resolution": {
       "width": "1080",
       "height": "1920"
     },
-    "size": "6.23",
+    "density": "401",
+    "size": "6.95",
+    "xdpi": "351.79",
+    "ydpi": "308.19",
     "ram": "2 GB"
   },
   "iPhone SE": {
+    "batteryCapacity": "1624 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Twister x 2",
+    "cpuVersion": "S8000 & S8003 \"A9\"",
+    "cpuFrequency": "1.85 GHz",
     "resolution": {
       "width": "640",
       "height": "1136"
     },
-    "size": "4.87",
+    "density": "326",
+    "size": "5.39",
+    "xdpi": "277.06",
+    "ydpi": "233.26",
     "ram": "2 GB"
   },
   "iPhone 7": {
+    "batteryCapacity": "1960 mA",
+    "batteryVoltage": "3.8 V",
+    "cpuHardware": "Apple Fusion x 2",
+    "cpuVersion": "T8010 \"A10\"",
+    "cpuFrequency": "2.34 GHz",
     "resolution": {
       "width": "750",
       "height": "1334"
     },
-    "size": "5.44",
+    "density": "326",
+    "size": "6.05",
+    "xdpi": "284.09",
+    "ydpi": "245.22",
     "ram": "2 GB"
   },
   "iPhone 7 Plus": {
+    "batteryCapacity": "2900 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Fusion x 2",
+    "cpuVersion": "T8010 \"A10\"",
+    "cpuFrequency": "2.34 GHz",
     "resolution": {
       "width": "1080",
       "height": "1920"
     },
-    "size": "6.23",
+    "density": "401",
+    "size": "6.95",
+    "xdpi": "351.79",
+    "ydpi": "308.19",
     "ram": "3 GB"
   },
   "iPhone 8": {
+    "batteryCapacity": "1821 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
+    "cpuVersion": "T8015 \"A11\"",
+    "cpuFrequency": "2.39 GHz",
     "resolution": {
       "width": "750",
       "height": "1334"
     },
-    "size": "5.45",
+    "density": "326",
+    "size": "6.06",
+    "xdpi": "283.02",
+    "ydpi": "244.77",
     "ram": "2 GB"
   },
   "iPhone 8 Plus": {
+    "batteryCapacity": "2691 mA",
+    "batteryVoltage": "3.82 V",
+    "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
+    "cpuVersion": "T8015 \"A11\"",
+    "cpuFrequency": "2.39 GHz",
     "resolution": {
       "width": "1080",
       "height": "1920"
     },
-    "size": "6.24",
+    "density": "401",
+    "size": "6.95",
+    "xdpi": "351.79",
+    "ydpi": "307.69",
     "ram": "3 GB"
   },
   "iPhone X": {
+    "batteryCapacity": "2716 mA",
+    "batteryVoltage": "3.81 V",
+    "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
+    "cpuVersion": "T8015 \"A11\"",
+    "cpuFrequency": "2.39 GHz",
     "resolution": {
       "width": "1125",
       "height": "2436"
     },
-    "size": "5.65",
+    "density": "458",
+    "size": "6.30",
+    "xdpi": "403.23",
+    "ydpi": "431.15",
     "ram": "3 GB"
   },
-  "iPhone XS Max": {
-    "resolution": {
-      "width": "1242",
-      "height": "2688"
-    },
-    "size": "6.20",
-    "ram": "4 GB"
-  },
-  "iPhone 3G": {
-    "size": "4.5"
-  },
-  "iPhone 3GS": {
-    "size": "4.5"
-  },
-  "iPhone 4S": {
-    "resolution": {
-      "width": "640",
-      "height": "960"
-    },
-    "size": "4.5",
-    "ram": "512 MB"
-  },
-  "iPhone 6": {
-    "resolution": {
-      "width": "750",
-      "height": "1334"
-    },
-    "size": "5.44",
-    "ram": "1 GB"
-  },
-  "iPhone 6 Plus": {
-    "resolution": {
-      "width": "1080",
-      "height": "1920"
-    },
-    "size": "6.22",
-    "ram": "1 GB"
-  },
   "iPhone XR": {
+    "batteryCapacity": "2942 mA",
+    "batteryVoltage": "3.79 V",
+    "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
+    "cpuVersion": "T8020 \"A12 Bionic\"",
+    "cpuFrequency": "2.49 GHz",
     "resolution": {
       "width": "828",
       "height": "1792"
     },
-    "size": "5.94",
+    "density": "326",
+    "size": "6.65",
+    "xdpi": "277.85",
+    "ydpi": "301.68",
     "ram": "3 GB"
   },
   "iPhone XS": {
+    "batteryCapacity": "2658 mA",
+    "batteryVoltage": "3.81 V",
+    "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
+    "cpuVersion": "T8020 \"A12 Bionic\"",
+    "cpuFrequency": "2.49 GHz",
     "resolution": {
       "width": "1125",
       "height": "2436"
     },
-    "size": "5.65",
+    "density": "458",
+    "size": "6.30",
+    "xdpi": "403.23",
+    "ydpi": "431.15",
+    "ram": "4 GB"
+  },
+  "iPhone XS Max": {
+    "batteryCapacity": "3174 mA",
+    "batteryVoltage": "3.80 V",
+    "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
+    "cpuVersion": "T8020 \"A12 Bionic\"",
+    "cpuFrequency": "2.49 GHz",
+    "resolution": {
+      "width": "1242",
+      "height": "2688"
+    },
+    "density": "458",
+    "size": "6.91",
+    "xdpi": "407.21",
+    "ydpi": "433.55",
     "ram": "4 GB"
   }
 }
