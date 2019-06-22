@@ -1,13 +1,13 @@
 {
   "iPhone": {
-    "batteryCapacity": "1400 mA",
+    "batteryCapacity": "1400 mAh",
     "batteryVoltage": "3.7 V",
     "cpuHardware": "ARM1176 x 1",
     "cpuVersion": "S5L8900",
     "cpuFrequency": "400 MHz"
   },
   "iPhone 3G": {
-    "batteryCapacity": "1150 mA",
+    "batteryCapacity": "1150 mAh",
     "batteryVoltage": "3.7 V",
     "cpuHardware": "ARM1176 x 1",
     "cpuVersion": "S5L8900",
@@ -15,7 +15,7 @@
     "size": "5.10"
   },
   "iPhone 3GS": {
-    "batteryCapacity": "1219 mA",
+    "batteryCapacity": "1219 mAh",
     "batteryVoltage": "3.7 V",
     "cpuHardware": "ARM Cortex-A8 x 1",
     "cpuVersion": "S5L8920",
@@ -23,7 +23,7 @@
     "size": "5.10"
   },
   "iPhone 4": {
-    "batteryCapacity": "1419 mA",
+    "batteryCapacity": "1419 mAh",
     "batteryVoltage": "3.7 V",
     "cpuHardware": "ARM Cortex-A8 x 1",
     "cpuVersion": "S5L8930 \"A4\"",
@@ -39,7 +39,7 @@
     "ydpi": "213.33"
   },
   "iPhone 4S": {
-    "batteryCapacity": "1432 mA",
+    "batteryCapacity": "1432 mAh",
     "batteryVoltage": "3.7 V",
     "cpuHardware": "ARM Cortex-A9 x 2",
     "cpuVersion": "S5L8940 \"A5\"",
@@ -55,7 +55,7 @@
     "ram": "512 MB"
   },
   "iPhone 5": {
-    "batteryCapacity": "1434 mA",
+    "batteryCapacity": "1434 mAh",
     "batteryVoltage": "3.8 V",
     "cpuHardware": "Swift x 2",
     "cpuVersion": "S5L8950 \"A6\"",
@@ -71,7 +71,7 @@
     "ram": "1 GB"
   },
   "iPhone 5c": {
-    "batteryCapacity": "1508 mA",
+    "batteryCapacity": "1508 mAh",
     "batteryVoltage": "3.8 V",
     "cpuHardware": "Swift x 2",
     "cpuVersion": "S5L8950 \"A6\"",
@@ -87,7 +87,7 @@
     "ram": "1 GB"
   },
   "iPhone 5s": {
-    "batteryCapacity": "1508 mA",
+    "batteryCapacity": "1508 mAh",
     "batteryVoltage": "3.8 V",
     "cpuHardware": "Apple Cyclone x 2",
     "cpuVersion": "S5L8960 \"A7\"",
@@ -103,7 +103,7 @@
     "ram": "1 GB"
   },
   "iPhone 6": {
-    "batteryCapacity": "1809 mA",
+    "batteryCapacity": "1809 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Typhoon x 2",
     "cpuVersion": "T7000 \"A8”",
@@ -119,7 +119,7 @@
     "ram": "1 GB"
   },
   "iPhone 6 Plus": {
-    "batteryCapacity": "2906 mA",
+    "batteryCapacity": "2906 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Typhoon x 2",
     "cpuVersion": "T7000 \"A8\"",
@@ -135,7 +135,7 @@
     "ram": "1 GB"
   },
   "iPhone 6s": {
-    "batteryCapacity": "1715 mA",
+    "batteryCapacity": "1715 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Twister x 2",
     "cpuVersion": "S8000 and S8003 \"A9\"",
@@ -151,7 +151,7 @@
     "ram": "2 GB"
   },
   "iPhone 6s Plus": {
-    "batteryCapacity": "2750 mA",
+    "batteryCapacity": "2750 mAh",
     "batteryVoltage": "3.8 V",
     "cpuHardware": "Apple Twister x2",
     "cpuVersion": "S8000 and S8003 \"A9\"",
@@ -167,7 +167,7 @@
     "ram": "2 GB"
   },
   "iPhone SE": {
-    "batteryCapacity": "1624 mA",
+    "batteryCapacity": "1624 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Twister x 2",
     "cpuVersion": "S8000 & S8003 \"A9\"",
@@ -183,7 +183,7 @@
     "ram": "2 GB"
   },
   "iPhone 7": {
-    "batteryCapacity": "1960 mA",
+    "batteryCapacity": "1960 mAh",
     "batteryVoltage": "3.8 V",
     "cpuHardware": "Apple Fusion x 2",
     "cpuVersion": "T8010 \"A10\"",
@@ -199,7 +199,7 @@
     "ram": "2 GB"
   },
   "iPhone 7 Plus": {
-    "batteryCapacity": "2900 mA",
+    "batteryCapacity": "2900 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Fusion x 2",
     "cpuVersion": "T8010 \"A10\"",
@@ -215,7 +215,7 @@
     "ram": "3 GB"
   },
   "iPhone 8": {
-    "batteryCapacity": "1821 mA",
+    "batteryCapacity": "1821 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
     "cpuVersion": "T8015 \"A11\"",
@@ -231,7 +231,7 @@
     "ram": "2 GB"
   },
   "iPhone 8 Plus": {
-    "batteryCapacity": "2691 mA",
+    "batteryCapacity": "2691 mAh",
     "batteryVoltage": "3.82 V",
     "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
     "cpuVersion": "T8015 \"A11\"",
@@ -247,7 +247,7 @@
     "ram": "3 GB"
   },
   "iPhone X": {
-    "batteryCapacity": "2716 mA",
+    "batteryCapacity": "2716 mAh",
     "batteryVoltage": "3.81 V",
     "cpuHardware": "Apple Monsoon x 2 and Apple Mistral x 4",
     "cpuVersion": "T8015 \"A11\"",
@@ -263,7 +263,7 @@
     "ram": "3 GB"
   },
   "iPhone XR": {
-    "batteryCapacity": "2942 mA",
+    "batteryCapacity": "2942 mAh",
     "batteryVoltage": "3.79 V",
     "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
     "cpuVersion": "T8020 \"A12 Bionic\"",
@@ -279,7 +279,7 @@
     "ram": "3 GB"
   },
   "iPhone XS": {
-    "batteryCapacity": "2658 mA",
+    "batteryCapacity": "2658 mAh",
     "batteryVoltage": "3.81 V",
     "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
     "cpuVersion": "T8020 \"A12 Bionic\"",
@@ -295,7 +295,7 @@
     "ram": "4 GB"
   },
   "iPhone XS Max": {
-    "batteryCapacity": "3174 mA",
+    "batteryCapacity": "3174 mAh",
     "batteryVoltage": "3.80 V",
     "cpuHardware": "Apple Vortex x 2 and Apple Tempest x 4",
     "cpuVersion": "T8020 \"A12 Bionic\"",
